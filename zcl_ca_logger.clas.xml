@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Clase para log de procesos</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <MSG_ID>ZCA0001</MSG_ID>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>A</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Insertar Mensajes al Log de Ejecución tipo Dialogo</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>ADD</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Insertar Mensajes Log de Ejecución</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>E</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Insertar Mensajes al Log de Ejecución tipo Error</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>EXPORT_TO_TABLE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Exportar Mensajes del Log  una tabla de estructura BAPIRET2</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>FULLSCREEN</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Mostrar Mensajes Log de Ejecución General</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>I</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Insertar Mensajes al Log de Ejecución tipo Informativo</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>NEW</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Inicializar Instancia Y log de Ejecución</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>OPEN</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Abrir Log de Ejecución</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>POPUP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Mostrar Mensajes Log de Ejecución</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>S</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Insertar Mensajes al Log de Ejecución tipo Sistema(Exitosos)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_LOGGER</CLSNAME>
+     <CMPNAME>W</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Insertar Mensajes al Log de Ejecución tipo Advertencia</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
